@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "needle": "^3.0.0",
+    "posthtml-parser": "^0.10.1"
+  },
+  "name": "neo1secmail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
